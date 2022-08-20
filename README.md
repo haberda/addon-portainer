@@ -36,7 +36,6 @@ volumes.
 
 [:books: Read the full add-on documentation][docs]
 
-
 ## DISCONTINUED
 
 This add-on is no longer available.
